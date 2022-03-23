@@ -2,7 +2,7 @@
 
 This repo was intentionally created to store my CVs. Feel free to view and download them.
 
-[My CV in English is here](Somov%20D.N.%20CV.pdf) - still not updated :(
+[My CV in English is here](Somov%20D.N.%20CV.pdf)
 
 ------------------
 
